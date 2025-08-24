@@ -2,7 +2,7 @@
 
 <br />
 
-C++ Developer specializing in trading systems
+C++ Developer specializing in trading systems | Year 3 Computer Science student at NUS
 
 **About me**
 - 💼 C++ Developer with experience in trading system projects
