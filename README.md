@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="80%" alt="Hello, I'm TrKNguyen!" src="https://via.placeholder.com/800x200/2C3E50/FFFFFF?text=Welcome+to+my+GitHub+Profile" />
-</p>
+# Hey guys, I'm Nguyen! 👋
 
 <br />
 
@@ -23,7 +21,11 @@ C++ Developer specializing in trading systems
 #### Top Repositories
 
 <a href="https://github.com/TrKNguyen/Cpp-LL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TrKNguyen&repo=trading-system&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TrKNguyen&repo=Cpp-LL&theme=buefy" />
+</a>
+
+<a href="https://github.com/TrKNguyen/ParallelVirusDetection-CUDA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TrKNguyen&repo=ParallelVirusDetection-CUDA&theme=buefy" />
 </a>
 
 <br />
