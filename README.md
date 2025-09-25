@@ -28,6 +28,10 @@ C++ Developer specializing in trading systems | Year 3 Computer Science student 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TrKNguyen&repo=ParallelVirusDetection-CUDA&theme=buefy" />
 </a>
 
+<a href="https://github.com/TrKNguyen/ParallelParticleSimulation-OMP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TrKNguyen&repo=ParallelParticleSimulation-OMP&theme=buefy" />
+</a>
+
 <br />
 <br />
 
